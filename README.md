@@ -4,7 +4,7 @@ pre trained prediction:
 
 ![Prediction](images/Pretrain.png)
 
-## Evalvation
+## Evaluation Metric
 A CNN model is trained on a custom dataset and evaluated using accuracy and a confusion matrix.
 
 ## Results
