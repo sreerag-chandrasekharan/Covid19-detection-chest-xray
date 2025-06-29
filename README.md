@@ -1,5 +1,5 @@
 # Detecting COVID-19 with Chest X Ray using PyTorch
-Early and accurate diagnosis of COVID-19 is crucial to contain its spread and initiate timely treatment. The standard diagnostic methods such as nasal and throat swabs (RT-PCR tests) often suffer from low sensitivity and delayed results, leading to false negatives and uncontrolled transmission. This project demonstrates a basic image classification pipeline using PyTorch and torchvision.  
+Early and accurate diagnosis of COVID-19 is crucial to contain its spread and initiate timely treatment. The standard diagnostic methods such as nasal and throat swabs (RT-PCR tests) often suffer from low sensitivity and delayed results, leading to false negatives and uncontrolled transmission. This project demonstrates a basic image classification pipeline using PyTorch and torchvision using (SIRM) COVID-19 DATABASE.  
 pre trained prediction:
 
 ![Prediction](images/Pretrain.png)
